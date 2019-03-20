@@ -1,1 +1,1 @@
-## This program draws a spiral of the size given when executed
+## This program draws a spiral of a size given when executed
