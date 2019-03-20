@@ -1,1 +1,1 @@
-## Hello this is a java project
+## This program draws a spiral of the size given when executed
